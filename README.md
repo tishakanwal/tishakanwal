@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tishakanwal
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning python,java,c
-- 📫 How to reach me tisha.kanwal@yahoo.com
+- 📫 How to reach me tisha.kanwal (IG)
 
 <!---
 tishakanwal/tishakanwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
