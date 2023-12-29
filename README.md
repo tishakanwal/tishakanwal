@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tishakanwal
 - 👀 I’m interested in python programming
+- 👀 I’m interested in internship
 - 🌱 I’m currently learning python,java,c
 - 📫 How to reach me tisha.kanwal (IG)
 
